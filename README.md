@@ -10,6 +10,7 @@
 - index.html
 - about.md
 - archive.html
+- css/main.scss
 - assets/img/*.jpg
 - _posts/*
 - _layouts/post.html
