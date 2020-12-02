@@ -9,8 +9,8 @@ permalink: /about/
 ### Derrick Kim (panda5176)
 - Biological Data Scientist
 - [https://github.com/panda5176](https://github.com/panda5176)
-- [https://panda5176.github.io]
-- [panda5176@gmail.com]
+- [https://panda5176.github.io](https://panda5176.github.io)
+- [panda5176@gmail.com](panda5176@gmail.com)
 
 ### Career
 - Busan Science High Scool (2012.03 ~ 2014.02)
