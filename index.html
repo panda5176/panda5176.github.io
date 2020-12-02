@@ -37,7 +37,7 @@ title: Home
         {% for category in post.categories %}
         <a href="{{"/category/" | append: category | prepend: site.baseurl }}">
           <data data-icon="ei-archive"></data>
-          <em>{{category}}</em></a>
+          <u>{{category}}</u></a>
         {% endfor %}
         
         <!--
