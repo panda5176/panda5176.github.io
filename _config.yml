@@ -18,7 +18,6 @@ github_username: panda5176
 markdown: kramdown
 kramdown:
   input: GFM
-google_fonts: "Nanum+Gothic:400,700"
 
 # Third-party services
 # just leave someone empty to disable it
