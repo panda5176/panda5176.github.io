@@ -12,6 +12,7 @@ title: Home
       <header class="post_header">
         <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}"><strong>{{ post.title}}</strong></a></h2>
         <time class="post_date"><em>{{ post.date | date: "%B/%d/%Y, %A" }}</em></time>
+        <hr>
       </header>
       <div class="post_excerpt">
         <p>
@@ -53,7 +54,7 @@ title: Home
           <a href=""><data data-icon="ei-arrow-right"></data>Read this article  </a>
         </p-->
       </footer>
-      <hr/>
+      <hr><hr>
     </article>
     {% endfor %}
 
