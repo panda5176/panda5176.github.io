@@ -17,7 +17,7 @@ title: Archive
 
     <div class="post_title">
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
-      <span class="date">{{ post.date | date: "%B/%d/%Y" }}</span>
+      <span class="date"><em>{{ post.date | date: "%B/%d/%Y" }}</em></span>
     </div>
 
     {% endfor %}
