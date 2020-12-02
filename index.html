@@ -25,21 +25,21 @@ title: Home
       </div>
       <footer class="post_meta">
 
-
+        <!--
         {% if post.location %}
         <span class="author-location">
           <div data-icon="ei-location"></div>
           <a href=https://www.google.com/maps/place/{{post.location}}">{{ post.location }}</a>
         </span>
         {% endif %}
-        <!--
+        -->
+        
         {% for category in post.categories %}
         <a href="{{"/category/" | append: category | prepend: site.baseurl }}">
           <data data-icon="ei-archive"></data>
           {{category}}</a>
         {% endfor %}
-        -->
-
+        
         <!--
         {% if post.author %}
         <span class="author_meta">
