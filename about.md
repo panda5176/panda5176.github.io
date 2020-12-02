@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+---
+
 ### Derrick Kim (panda5176)
 - Biological Data Scientist
 - https://github.com/panda5176
