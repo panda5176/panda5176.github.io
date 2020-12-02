@@ -10,7 +10,7 @@ title: Home
 
     <article class="post_card post">
       <header class="post_header">
-        <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>
+        <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}"><strong>{{ post.title}}</strong></a></h2>
         <time class="post_date"><em>{{ post.date | date: "%B/%d/%Y, %A" }}</em></time>
       </header>
       <div class="post_excerpt">
@@ -37,7 +37,7 @@ title: Home
         {% for category in post.categories %}
         <a href="{{"/category/" | append: category | prepend: site.baseurl }}">
           <data data-icon="ei-archive"></data>
-          {{category}}</a>
+          <em>{{category}}</em></a>
         {% endfor %}
         
         <!--
