@@ -7,3 +7,15 @@
 ### Modified files
 - README.md
 - _config.yml
+- index.html
+- about.md
+- archive.html
+- assets/img/*.jpg
+- _posts/*
+- _layouts/post.html
+- _layouts/page.html
+- _includes/share.html
+- _includes/icon-twitter.*
+- _includes/header.html
+- _includes/footer.html
+- _includes/author.html
