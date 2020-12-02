@@ -5,8 +5,8 @@
 - jekyll-simple from wild-flame (https://github.com/wild-flame/jekyll-simple)
 
 ### Fonts
-- 나눔고딕(Nanum Gothic, https://fonts.google.com/specimen/Nanum+Gothic)
-- 나눔고딕코딩(Nanum Gothic Coding, https://fonts.google.com/specimen/Nanum+Gothic+Coding)
+- 나눔고딕 (Nanum Gothic, https://fonts.google.com/specimen/Nanum+Gothic)
+- 나눔고딕코딩 (Nanum Gothic Coding, https://fonts.google.com/specimen/Nanum+Gothic+Coding)
 
 ### Modified files
 - General
