@@ -4,8 +4,27 @@ title: About
 permalink: /about/
 ---
 
-This is a simple Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/).  Plus, you can find a lot of themes at [jekyllthemes.org](http://jekyllthemes.org/)
+### Derrick Kim (panda5176)
+- Biological Data Scientist
+- https://github.com/panda5176
+- https://panda5176.github.io
+- panda5176@gmail.com
 
-You can find the source code for this theme at: <data data-icon="ei-sc-github"></data>  [jekyll-simple](https://github.com/wild-flame/jekyll-simple)
+### Career
+- Busan Science High Scool (2012.03 ~ 2014.02)
+- B.S. in School of Biological Sciences, SNU (2014.03 ~ 2018.02)
+- Ph.D. Student in School of Biological Sciences, SNU (2018.03 ~ 2020.02)
+- Research Associates I in G+FLAS Life Sciences, Inc. (2018.05 ~ 2020.11)
+- Bioinformatician in 3billion, Inc. (2020.12 ~ now)
 
-You can find the source code for Jekyll at <data data-icon="ei-sc-github"></data>  [jekyll](https://github.com/jekyll/jekyll)
+### Tech Stack
+- Python & Biopython
+- scikit-learn & TensorFlow & Keras & PyTorch
+
+### Interests
+- Bioinformatics
+- Diagnostic genetics
+- Functional Genomics
+- Ecology & Evolution
+- Artificial Intelligence
+
