@@ -4,11 +4,12 @@ layout: default
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="artilce_header">
-    <h1 class="artilce_title" itemprop="name headline">{{ page.title }}</h1>
+    <h1 class="artilce_title" itemprop="name headline"><strong>{{ page.title }}</strong></h1>
     <p class="artilce_meta">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         <em>{{ page.date | date: "%B/%d/%Y, %A" }}</em>
       </time>
+      <br>
     </p>
   </header>
 
