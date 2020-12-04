@@ -33,7 +33,7 @@ title: Home
           <a href=https://www.google.com/maps/place/{{post.location}}">{{ post.location }}</a>
         </span>
         {% endif %}
-        -->
+        
         
         {% for category in post.categories %}
         <a href="{{"/category/" | append: category | prepend: site.baseurl }}">
@@ -41,7 +41,7 @@ title: Home
           <u>{{category}}</u></a>
         {% endfor %}
         
-        <!--
+        
         {% if post.author %}
         <span class="author_meta">
           <img src="{{site.baseurl}}/assets/img/{{post.author}}.jpg"></img>
