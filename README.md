@@ -12,12 +12,11 @@
 - General
   - README.md
   - _config.yml
-
-- Contents
-  - index.html
-  - about.md
-  - assets/img/*.jpg
-  - _posts/*
+  
+- Google Search Console
+  - google*.html
+  - sitemap.xml
+  - robots.txt
 
 - Fonts
   - _sass/_base.scss
@@ -32,3 +31,9 @@
   - _includes/footer.html
   - _includes/author.html
   - _includes/share.html
+
+- Contents
+  - index.html
+  - about.md
+  - assets/img/*.jpg
+  - _posts/*
