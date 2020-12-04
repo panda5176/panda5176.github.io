@@ -27,6 +27,5 @@ permalink: /about/
 - Bioinformatics
 - Diagnostic genetics
 - Functional Genomics
-- Ecology & Evolution
 - Artificial Intelligence
 
