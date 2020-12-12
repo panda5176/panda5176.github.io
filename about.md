@@ -7,7 +7,7 @@ permalink: /about/
 ---
 
 ### Derrick Kim (panda5176)
-- Biological Data Scientist
+- Bioinformatics Engineer
 - [https://github.com/panda5176](https://github.com/panda5176)
 - [https://panda5176.github.io](https://panda5176.github.io)
 - [panda5176@gmail.com](panda5176@gmail.com)
