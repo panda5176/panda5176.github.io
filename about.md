@@ -8,9 +8,9 @@ permalink: /about/
 
 ### Derrick Kim (panda5176)
 - Bioinformatics Engineer
-- [https://github.com/panda5176](https://github.com/panda5176)
-- [https://panda5176.github.io](https://panda5176.github.io)
-- [panda5176@gmail.com](panda5176@gmail.com)
+- https://github.com/panda5176
+- https://panda5176.github.io
+- panda5176@gmail.com
 
 ### Career
 - Busan Science High School (2012.03 ~ 2014.02)
@@ -21,11 +21,12 @@ permalink: /about/
 
 ### Tech Stack
 - Python & Biopython
-- scikit-learn & TensorFlow & Keras & PyTorch
+- Godot Engine & GDScript
 
 ### Interests
 - Bioinformatics
-- Diagnostic genetics
+- Diagnostic Genetics
 - Functional Genomics
 - Artificial Intelligence
-
+- Cellular Automata
+- Artificial Life
