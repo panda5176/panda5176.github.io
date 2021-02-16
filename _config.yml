@@ -16,6 +16,7 @@ github_username: panda5176
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 kramdown:
   input: GFM
 
