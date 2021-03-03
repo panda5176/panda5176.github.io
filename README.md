@@ -22,6 +22,7 @@
   - _sass/_base.scss
   - _sass/_layout.scss
   - _sass/_normalize.scss
+  - _sass/_syntax-highlighting.scss
 
 - Layout
   - archive.html
