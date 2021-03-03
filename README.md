@@ -20,6 +20,7 @@
 
 - Fonts
   - _sass/_base.scss
+  - _sass/_layout.scss
   - _sass/_normalize.scss
 
 - Layout
