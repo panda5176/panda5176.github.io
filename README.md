@@ -3,6 +3,8 @@
 
 ### Theme
 - jekyll-simple from wild-flame (https://github.com/wild-flame/jekyll-simple)
+- Monokai syntax highlighting (https://github.com/richleland/pygments-css/blob/master/monokai.css)
+- Utterances comments widget (https://utteranc.es/)
 
 ### Fonts
 - 나눔고딕 (Nanum Gothic, https://fonts.google.com/specimen/Nanum+Gothic)
@@ -19,6 +21,7 @@
   - robots.txt
 
 - Fonts
+  - css/main.scss
   - _sass/_base.scss
   - _sass/_layout.scss
   - _sass/_normalize.scss

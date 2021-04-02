@@ -45,8 +45,10 @@
   padding: 10px 10px;
   box-sizing: border-box;
   /* for test only */
-  border: 1px dashed #eeeeee;
-
+  // border: 1px dashed #eeeeee;
+}
+.page-content > .container {
+  background-color: #202020;
 }
 .column,
 .columns {
@@ -141,7 +143,8 @@ body {
   /* font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif; */
   /* font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; */
   font-family: "Nanum Gothic",-apple-system-font,"Helvetica Neue","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
-  color: #222; }
+  background-color: #111;
+  color: #eee; }
 
 
 /* Typography
@@ -174,14 +177,14 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #222;
+  color: #54A4DE;
   text-decoration: none;
   //background-color: transparent;
   -webkit-transition: color .4s;
   transition: color .4s;
 }
 a:hover {
-  color: #b1b1b1;
+  color: #fff;
   text-decoration: underline;
 }
 
@@ -343,7 +346,7 @@ code {
   white-space: nowrap;
   color: #f8f8f2;
   background: #272822;
-  border: 1px solid #E1E1E1;
+  border: 1px solid #272822;
   border-radius: 4px; }
 pre > code {
   display: block;
