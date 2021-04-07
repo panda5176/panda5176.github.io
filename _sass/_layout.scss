@@ -9,11 +9,15 @@ body {
   height:auto;
 }
 
+.wrapper {
+  color: #eee;
+}
+
 .page-content {
-    min-height:100%;
-    box-sizing: border-box;
-    height:auto;
-    padding-bottom: 140px;/*等于或略大于footer的高度*/
+  min-height:100%;
+  box-sizing: border-box;
+  height:auto;
+  padding-bottom: 140px;
 }
 
 .site-footer {
