@@ -20,7 +20,7 @@ permalink: /about/
 - Bioinformatics Engineer for 3billion, Inc. (2020.12 ~ now)
 
 ### Tech Stack
-- Python & Biopython
+- Python & C++
 - Godot Engine & GDScript
 
 ### Interests
