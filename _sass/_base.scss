@@ -48,7 +48,7 @@
   // border: 1px dashed #eeeeee;
 }
 .page-content > .container {
-  background-color: #202020;
+  background-color: #eee;
 }
 .column,
 .columns {
@@ -143,8 +143,8 @@ body {
   /* font-family: Helvetica, Tahoma, Arial, STXihei, "Microsoft YaHei", SimSun, Heiti, sans-serif; */
   /* font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; */
   font-family: "Nanum Gothic",-apple-system-font,"Helvetica Neue","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
-  background-color: #111;
-  color: #111; }
+  background-color: #ddd;
+  color: #333; }
 
 
 /* Typography
@@ -177,14 +177,14 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #54A4DE;
+  color: #333;
   text-decoration: none;
   //background-color: transparent;
   -webkit-transition: color .4s;
   transition: color .4s;
 }
 a:hover {
-  color: #fff;
+  color: #f50;
   text-decoration: underline;
 }
 
@@ -214,7 +214,7 @@ input[type="button"] {
   white-space: nowrap;
   background-color: transparent;
   border-radius: 4px;
-  border: 1px solid #bbb;
+  border: 1px solid #aaa;
   cursor: pointer;
   box-sizing: border-box; }
 .button:hover,
@@ -267,7 +267,7 @@ select {
   height: 38px;
   padding: 6px 10px; /* The 6px vertically centers text on FF, ignored by Webkit */
   background-color: #fff;
-  border: 1px solid #D1D1D1;
+  border: 1px solid #aaa;
   border-radius: 4px;
   box-shadow: none;
   box-sizing: border-box; }
@@ -360,7 +360,7 @@ th,
 td {
   padding: 12px 15px;
   text-align: left;
-  border-bottom: 1px solid #E1E1E1; }
+  border-bottom: 1px solid #aaa; }
 th:first-child,
 td:first-child {
   padding-left: 0; }
@@ -417,7 +417,7 @@ hr {
   margin-top: 2rem;
   margin-bottom: 2.5rem;
   border-width: 0;
-  border-top: 1px solid #E1E1E1; }
+  border-top: 1px solid #aaa; }
 
 
 /* Clearing
@@ -449,6 +449,6 @@ blockquote {
   font-style: normal;
   font-size: 100%;
   line-height: 1.8rem;
-  border-left: 3px solid #D0E5F2;
+  border-left: 3px solid #aaa;
   font-size: 1.3rem;
 } 

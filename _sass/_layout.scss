@@ -10,7 +10,7 @@ body {
 }
 
 .wrapper {
-  color: #eee;
+  color: #333;
 }
 
 .page-content {
@@ -27,17 +27,17 @@ body {
   width:100%;
 
   /* footer style */    
-  color: #aaa;
-  background-color: #111;
+  color: #555;
+  background-color: #ddd;
   
   .left {
     a {
-      color: #eee;
+      color: #333;
       // border-bottom:1px dotted;
       text-decoration:none;
     }
     a:hover {
-      color:#fff;
+      color:#f50;
       border-bottom:1px dotted;
     }
   }
@@ -65,9 +65,9 @@ body {
 }
 
 .logo a:hover {
-  color:#fff;
-  background-image:-webkit-linear-gradient(bottom,#fff,#fff);
-  background-image:linear-gradient(to top,#fff,#fff);
+  color: #f50;
+  background-image:-webkit-linear-gradient(bottom,#f50,#f50);
+  background-image:linear-gradient(to top,#f50,#f50);
   // text-shadow:-1px -1px 0 #FDFDFD,1px -1px 0 #FDFDFD,-1px 1px 0 #FDFDFD,1px 1px 0 #FDFDFD;
   background-repeat:repeat-x;
   background-size:2px 2px;
@@ -237,15 +237,15 @@ p.readmore {
   text-decoration:none;
 }
 .article-content a:hover {
-  color:#fff;
+  color:#f50;
   border-bottom:1px dotted;
 }
 
 .article-footer {
 
   padding:2rem 0;
-  border-top:1px solid #ddd;
-  border-bottom:1px solid #ddd;
+  border-top:1px solid #aaa;
+  border-bottom:1px solid #aaa;
 
   .share {
     text-align:center;
@@ -354,7 +354,7 @@ body.custom-background {
   text-transform:uppercase;
   h4 {
    letter-spacing:0;
-   border-bottom: 1px solid #ddd;
+   border-bottom: 1px solid #aaa;
   }
 }
 
