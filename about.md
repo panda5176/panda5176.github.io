@@ -8,9 +8,9 @@ permalink: /about/
 
 ### Derrick Kim (panda5176)
 - Bioinformatics Engineer
-- https://github.com/panda5176
-- https://panda5176.github.io
 - panda5176@gmail.com
+- [https://github.com/panda5176](https://github.com/panda5176)
+- [https://panda5176.github.io](https://panda5176.github.io)
 
 ### Career
 - Busan Science High School (2012.03 ~ 2014.02)
