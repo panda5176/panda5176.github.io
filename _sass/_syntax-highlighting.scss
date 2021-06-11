@@ -2,17 +2,17 @@
 /* Base Style */
 .highlight pre {
   color: #000000;
-  background-color: #ffffff;
+  background-color: transparent;
 }
 /* Punctuation */
 .highlight .p {
   color: #940094;
-  background-color: #ffffff;
+  background-color: transparent;
 }
 /* Error */
 .highlight .err {
   color: #000000;
-  background-color: #ffffff;
+  background-color: transparent;
 }
 /* Base Style */
 .highlight .n {
@@ -22,7 +22,7 @@
 /* Name Attribute */
 .highlight .na {
   color: #3368dc;
-  background-color: #ffffff;
+  background-color: transparent;
   font-weight: bold;
 }
 /* Name Builtin */
@@ -34,7 +34,7 @@
 /* Name Class */
 .highlight .nc {
   color: #ff4f69;
-  background-color: #ffffff;
+  background-color: transparent;
   font-weight: bold;
 }
 /* Name Constant */
@@ -49,12 +49,12 @@
 }
 /* Name Entity */
 .highlight .ni {
-  color: #ffffff;
+  color: #000000;
   background-color: transparent;
 }
 /* Name Exception */
 .highlight .ne {
-  color: transparent;
+  color: #000000;
   background-color: transparent;
 }
 /* Name Function */
@@ -76,7 +76,7 @@
 /* Name Other */
 .highlight .nx {
   color: #2b0f54;
-  background-color: #ffffff;
+  background-color: transparent;
 }
 /* Name Property */
 .highlight .py {
@@ -90,7 +90,7 @@
 }
 /* Name Variable */
 .highlight .nv {
-  color: transparent;
+  color: #000000;
   background-color: transparent;
 }
 /* Name Variable Class */
@@ -100,7 +100,7 @@
 }
 /* Name Variable Global */
 .highlight .vg {
-  color: #ffffff;
+  color: #000000;
   background-color: transparent;
 }
 /* Name Variable Instance */
@@ -115,12 +115,12 @@
 }
 /* Base Style */
 .highlight .g {
-  color: transparent;
+  color: #000000;
   background-color: transparent;
 }
 /*  */
 .highlight .gd {
-  color: transparent;
+  color: #000000;
   background-color: transparent;
 }
 /* Base Style */
@@ -162,7 +162,7 @@
 /* Comment Special */
 .highlight .cs {
   color: #000000;
-  background-color: #fff7f8;
+  background-color: #6e6b6c;
   font-style: italic;
 }
 /* Base Style */
@@ -209,56 +209,56 @@
 /* Base Style */
 .highlight .l {
   color: #ff8142;
-  background-color: #ffffff;
+  background-color: transparent;
   font-weight: bold;
 }
 /* Literal Date */
 .highlight .ld {
   color: #ff8142;
-  background-color: #ffffff;
+  background-color: transparent;
   font-weight: bold;
   font-style: italic;
 }
 /* Literal Number */
 .highlight .m {
   color: #ff8142;
-  background-color: #ffffff;
+  background-color: transparent;
   font-weight: bold;
 }
 /* Literal Number Float */
 .highlight .mf {
   color: #ff8142;
-  background-color: #ffffff;
+  background-color: transparent;
   font-weight: bold;
 }
 /* Literal Number Hex */
 .highlight .mh {
   color: #ff8142;
-  background-color: #ffffff;
+  background-color: transparent;
   font-weight: bold;
 }
 /* Literal Number Integer */
 .highlight .mi {
   color: #ff8142;
-  background-color: #ffffff;
+  background-color: transparent;
   font-weight: bold;
 }
 /* Literal Number Oct */
 .highlight .mo {
   color: #ff8142;
-  background-color: #ffffff;
+  background-color: transparent;
   font-weight: bold;
 }
 /* Literal Number Integer Long */
 .highlight .il {
   color: #ff8142;
-  background-color: #ffffff;
+  background-color: transparent;
   font-weight: bold;
 }
 /* Literal String */
 .highlight .s {
-  color: transparent;
-  background-color: #ffffff;
+  color: #000000;
+  background-color: transparent;
   font-weight: bold;
   font-style: italic;
 }
@@ -272,28 +272,28 @@
 /* Literal String Char */
 .highlight .sc {
   color: #ff8142;
-  background-color: #ffffff;
+  background-color: transparent;
   font-weight: bold;
   font-style: italic;
 }
 /* Literal String Doc */
 .highlight .sd {
-  color: transparent;
-  background-color: #ffffff;
+  color: #000000;
+  background-color: transparent;
   font-weight: bold;
   font-style: italic;
 }
 /* Literal String Double */
 .highlight .s2 {
   color: #ff8142;
-  background-color: #ffffff;
+  background-color: transparent;
   font-weight: bold;
   font-style: italic;
 }
 /* Literal String Escape */
 .highlight .se {
   color: #ff8142;
-  background-color: #ffffff;
+  background-color: transparent;
   font-weight: bold;
   font-style: italic;
 }
@@ -307,28 +307,28 @@
 /* Literal String Interpol */
 .highlight .si {
   color: #ff8142;
-  background-color: #ffffff;
+  background-color: transparent;
   font-weight: bold;
   font-style: italic;
 }
 /* Literal String Other */
 .highlight .sx {
   color: #ff8142;
-  background-color: #ffffff;
+  background-color: transparent;
   font-weight: bold;
   font-style: italic;
 }
 /* Literal String Regex */
 .highlight .sr {
   color: #ff8142;
-  background-color: #ffffff;
+  background-color: transparent;
   font-weight: bold;
   font-style: italic;
 }
 /* Literal String Single */
 .highlight .s1 {
   color: #ff8142;
-  background-color: #ffffff;
+  background-color: transparent;
   font-weight: bold;
   font-style: italic;
 }
@@ -341,66 +341,66 @@
 }
 /* Base Style */
 .highlight .g {
-  color: transparent;
+  color: #000000;
   background-color: transparent;
 }
 /* Generic Deleted */
 .highlight .gd {
-  color: transparent;
+  color: #000000;
   background-color: transparent;
 }
 /* Generic Emph */
 .highlight .ge {
-  color: transparent;
+  color: #000000;
   background-color: transparent;
 }
 /* Generic Error */
 .highlight .gr {
-  color: transparent;
+  color: #000000;
   background-color: transparent;
 }
 /* Generic Heading */
 .highlight .gh {
-  color: transparent;
+  color: #000000;
   background-color: transparent;
 }
 /* Generic Inserted */
 .highlight .gi {
-  color: transparent;
+  color: #000000;
   background-color: transparent;
 }
 /* Generic Output */
 .highlight .go {
-  color: transparent;
+  color: #000000;
   background-color: transparent;
 }
 /* Generic Prompt */
 .highlight .gp {
-  color: transparent;
+  color: #000000;
   background-color: transparent;
 }
 /* Generic Strong */
 .highlight .gs {
-  color: transparent;
+  color: #000000;
   background-color: transparent;
 }
 /* Generic Subheading */
 .highlight .gu {
-  color: transparent;
+  color: #000000;
   background-color: transparent;
 }
 /* Generic Traceback */
 .highlight .gt {
-  color: transparent;
+  color: #000000;
   background-color: transparent;
 }
 /* Other */
 .highlight .x {
-  color: transparent;
+  color: #000000;
   background-color: transparent;
 }
 /* Text Whitespace */
 .highlight .w {
-  color: transparent;
+  color: #000000;
   background-color: transparent;
 }
