@@ -177,15 +177,15 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #333;
+  color: #ff4f69;
   text-decoration: none;
   //background-color: transparent;
   -webkit-transition: color .4s;
   transition: color .4s;
 }
 a:hover {
-  color: #ff4f69;
   text-decoration: underline;
+  border-bottom:1px dotted;
 }
 
 
