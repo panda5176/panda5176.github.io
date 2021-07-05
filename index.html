@@ -14,7 +14,7 @@ title: Home
         </h2>
         {% for category in post.categories %}
         <time class="post_date"><em>{{ post.date | date: "%B/%d/%Y, %A" }} in <a href="{{" /archive" | prepend:
-              site.baseurl }}">{{category}}</a></em></time>
+              site.baseurl }}">{{ category }}</a></em></time>
         {% endfor %}
         <hr>
       </header>
