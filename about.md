@@ -27,6 +27,5 @@ permalink: /about/
 - Bioinformatics
 - Diagnostic Genetics
 - Functional Genomics
-- Artificial Intelligence
-- Cellular Automata
+- Evolutionary Biology
 - Artificial Life
